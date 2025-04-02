@@ -1,1 +1,12 @@
-esse é o primeiro projeto de git simulando um fluxo de trabalho
+## Projeto Git ##
+
+Esse é o primeiro projeto de Git e GitHub simulando um fluxo de trabalho
+
+integrante 1
+Nome:Felipe da Silva Garcia Honores
+RM:563485
+
+integrante 2
+Nome:Gabriel Santos Claudino
+RM:564054
+
